@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <?= Partial::factory('partials/head') ?>
+    <?= Partial::factory('template/head') ?>
   </head>
   <body>
 		<?= Partial::factory('template/nav') ?>
