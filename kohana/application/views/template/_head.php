@@ -6,7 +6,7 @@
 		<meta name="author" content="">
 		<link rel="shortcut icon" href="/favicon.png">
 
-		<title>Template</title>
+		<title></title>
 
     <!-- Bootstrap core CSS -->
 		<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
