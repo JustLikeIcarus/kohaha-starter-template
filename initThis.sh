@@ -20,7 +20,7 @@ git submodule add https://github.com/kohana/userguide.git kohana/modules/usergui
 
 git submodule add https://github.com/kohana-minion/tasks-migrations.git kohana/modules/migrations
 
-git submodule add https://github.com/JustLikeIcarus/kohana-analytics.git kohana/modules/analytics
+git submodule add https://github.com/JustLikeIcarus/kohana-analytics.git kohana/modules/kohanalytics
 
 git submodule update --init --recursive
 
