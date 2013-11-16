@@ -12,9 +12,9 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="/home">Home</a></li>
-            <li><a href="/home/about">About</a></li>
-            <li><a href="/home/contact">Contact</a></li>
+            <?= HTML::menu_item('home', 'index', 'Home') ?> 
+            <?= HTML::menu_item('home', 'about', 'About') ?> 
+            <?= HTML::menu_item('home', 'contact', 'Contact') ?> 
           </ul>
         </div><!--/.nav-collapse -->
       </div>
