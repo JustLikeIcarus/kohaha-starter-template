@@ -1,10 +1,10 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 
-class Controller_Welcome extends Controller_Template {
+class Controller_Home extends Controller_App {
 
 	public function action_index()
 	{
-		$this->template->content = 'hello, world!'
+		$this->template->content = View::factory('home/index');
 	}
 
 } // End Welcome
