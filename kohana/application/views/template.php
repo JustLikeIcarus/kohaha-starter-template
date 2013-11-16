@@ -4,7 +4,7 @@
 		<?= Partial::factory('template/head') ?>
 	</head>
 	<body>
-		<?= Partial::factory('template/nav') ?>
+		<?= Partial::factory('template/nav')->set('site_name', $site_name) ?>
 		<div class="container">
 			<?= $content ?>
 		</div><!-- /.container -->
