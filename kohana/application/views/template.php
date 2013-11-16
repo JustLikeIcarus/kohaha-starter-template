@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+	<head>
 		<?= Partial::factory('template/head') ?>
-  </head>
-  <body>
+	</head>
+	<body>
 		<?= Partial::factory('template/nav') ?>
 		<div class="container">
 			<?= $content ?>
-    </div><!-- /.container -->
+		</div><!-- /.container -->
 		<?= Partial::factory('template/js') ?>
-  </body>
+	</body>
 </html>
