@@ -1,0 +1,33 @@
+[submodule "kohana/modules/database"]
+	path = kohana/modules/database
+	url = https://github.com/kohana/database.git
+[submodule "kohana/modules/orm"]
+	path = kohana/modules/orm
+	url = https://github.com/kohana/orm.git
+[submodule "kohana/modules/auth"]
+	path = kohana/modules/auth
+	url = https://github.com/kohana/auth.git
+[submodule "kohana/modules/minion"]
+	path = kohana/modules/minion
+	url = https://github.com/kohana/minion.git
+[submodule "kohana/modules/image"]
+	path = kohana/modules/image
+	url = https://github.com/kohana/image.git
+[submodule "kohana/modules/partials"]
+	path = kohana/modules/partials
+	url = https://github.com/JustLikeIcarus/kohana-partials.git
+[submodule "kohana/system"]
+	path = kohana/system
+	url = https://github.com/kohana/core.git
+[submodule "kohana/modules/email"]
+	path = kohana/modules/email
+	url = https://github.com/shadowhand/email.git
+[submodule "kohana/modules/userguide"]
+	path = kohana/modules/userguide
+	url = https://github.com/kohana/userguide.git
+[submodule "kohana/modules/migrations"]
+	path = kohana/modules/migrations
+	url = https://github.com/kohana-minion/tasks-migrations.git
+[submodule "kohana/modules/kohanalytics"]
+	path = kohana/modules/kohanalytics
+	url = https://github.com/JustLikeIcarus/kohana-analytics.git
